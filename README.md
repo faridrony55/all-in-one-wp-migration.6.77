@@ -2,5 +2,6 @@
 
 
 
-# define( 'AI1WM_MAX_FILE_SIZE', 2 << 28 );
+## define( 'AI1WM_MAX_FILE_SIZE', 2 << 28 );
+Use this Code
 # define( 'AI1WM_MAX_FILE_SIZE', 4294967296 * 10 );
